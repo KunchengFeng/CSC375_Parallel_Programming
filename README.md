@@ -1,4 +1,4 @@
-# CSC375_Parallel_Programming
+# CSC375 Parallel Programming
 - Course Taken Fall 2021
 
 ## Assignment 1
